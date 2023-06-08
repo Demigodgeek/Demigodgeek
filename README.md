@@ -13,8 +13,7 @@
 
 
 ---
-
-###:woman_technologist: About Me :
+:woman_technologist: About Me :
 ---
 - Experienced in business management consulting and project management for titans. 
 - Thrived and excelled in a demanding fintech bootcamp at UC Berkeley, where the enchanting world of coding, Machine Learning and Web 3.0 captured my imagination. 🎖️
