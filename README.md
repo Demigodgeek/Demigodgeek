@@ -18,8 +18,10 @@
 - Experienced in business management consulting and project management for titans.🌐
 - Thrived and excelled in a demanding fintech bootcamp at UC Berkeley, where the enchanting world of coding, Machine Learning and Web 3.0 captured my imagination. 🎖️
 - Dedicated to bridge the gap between business and tech in this dynamic era of financial innovation. 🤝
----
+
+
 **Languages I'm proficient in :**
+---
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -27,12 +29,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt=Solidity" width="40" height="40"/>&nbsp;
 </div>
 
+
 **Tools I confidently handle :**
+---
 GitHub, GitLab, VScode, JupyterLab, Google Colab, Amazon Lex, AWS Lambda, Amazon SageMaker, Remix, MetaMask, Ganache. 🛠️
 
 
 **Tasks I can tackle with expertise:**
-
+---
 - Developing financial applications 📊
 - Conducting thorough financial analysis 📈
 - Working on cutting-edge machine learning projects 🤖
