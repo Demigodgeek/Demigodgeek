@@ -15,11 +15,11 @@
 ---
 :woman_technologist: About Me :
 ---
-- Experienced in business management consulting and project management for titans. 
+- Experienced in business management consulting and project management for titans.🌐
 - Thrived and excelled in a demanding fintech bootcamp at UC Berkeley, where the enchanting world of coding, Machine Learning and Web 3.0 captured my imagination. 🎖️
-- Dedicated to bridge the gap between business and tech in this dynamic era of financial innovation. 💼💡
+- Dedicated to bridge the gap between business and tech in this dynamic era of financial innovation. 🤝
 ---
-**:hammer_and_wrench: Languages I'm proficient in :**
+**Languages I'm proficient in :**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
@@ -27,14 +27,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt=Solidity" width="40" height="40"/>&nbsp;
 </div>
 
-**:hammer_and_wrench: Tools I confidently handle :**
+**Tools I confidently handle :**
 
 
-**:Tasks I can tackle with expertise:**
+**Tasks I can tackle with expertise:**
 
-- Developing financial applications 📊💰
-- Conducting thorough financial analysis 📈💼
-- Working on cutting-edge machine learning projects 🤖🔬
-- Building decentralized applications (dApps) 🌐📱
-- Leveraging DeFi protocols for innovative financial solutions 💡💸
+- Developing financial applications 📊
+- Conducting thorough financial analysis 📈
+- Working on cutting-edge machine learning projects 🤖
+- Building decentralized applications (dApps)📱
+- Leveraging DeFi protocols for innovative financial solutions 💡
 
