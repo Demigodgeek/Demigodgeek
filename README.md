@@ -43,3 +43,10 @@ GitHub, GitLab, VScode, JupyterLab, Google Colab, Amazon Lex, AWS Lambda, Amazon
 - Building decentralized applications (dApps)📱
 - Leveraging DeFi protocols for innovative financial solutions 💡
 
+**My Hobbies :**
+---
+- Sleuthing Stories: I'm an avid fan of Agatha Christie, Ellery Queen, and Yokomizo Seishi. 🕵️‍♀️📚
+- Wanderlust: I've explored the vast majority of European and Asian countries. Madrid is my favorite. ✈️🌍
+- Thai Temptations: I'm a maestro of fine dining-level curries and tongue-tingling tom yum soup. 🍛🌶️
+
+*Feel free to reach out to me for exciting projects or simply to chat about mysteries, travel, or delicious food! ✉️🌟🌍*
