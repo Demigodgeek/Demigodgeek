@@ -28,6 +28,7 @@
 </div>
 
 **Tools I confidently handle :**
+GitHub, GitLab, VScode, JupyterLab, Google Colab, Amazon Lex, AWS Lambda, Amazon SageMaker, Remix, MetaMask, Ganache. 🛠️
 
 
 **Tasks I can tackle with expertise:**
